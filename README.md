@@ -102,6 +102,7 @@ Observações
 O código utiliza o Google Colab userdata para armazenar credenciais de forma segura. Se você estiver executando o código em outro ambiente, precisará adaptar a forma de carregar as credenciais.
 A criação de gráficos no Google Sheets é realizada através da construção de solicitações para a API do Google Sheets, o que pode ser complexo. O código fornece um exemplo básico de gráfico de linhas.
 O sistema de agentes pode ser estendido para incluir mais funcionalidades ou integrar outras APIs.
+Tentei fazer a criação de graficos para comparar os valores nutricionais das receitas mas não consegui, ainda....
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
